@@ -26,7 +26,9 @@ A4 - hour for the next race
 
 If A3 and A4 are both entered  a countdown to the race will start.
 
-DNF - Adds did not set a lap time during the race.
+## Additional tags / notes:
+
+DNF - Did not set a lap time during the race.
 
 DNS - Did not attend the race.
 

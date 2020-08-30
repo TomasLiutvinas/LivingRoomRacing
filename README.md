@@ -18,7 +18,7 @@ A3 - date for next race
 
 A4 - hour for the next race
 
-If A4 and A4 are both entered  a countdown to the race will start.
+If A3 and A4 are both entered  a countdown to the race will start.
 
 There is live race-result mode, but I don't remember how to enable it at the moment.
 

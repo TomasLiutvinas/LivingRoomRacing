@@ -26,6 +26,10 @@ A4 - hour for the next race
 
 If A3 and A4 are both entered  a countdown to the race will start.
 
+DNF - Adds did not set a lap time during the race.
+
+DNS - Did not attend the race.
+
 There is live race-result mode, but I don't remember how to enable it at the moment.
 
 # Setup

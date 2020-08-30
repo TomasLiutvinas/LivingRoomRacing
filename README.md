@@ -3,6 +3,8 @@
  
  We're using a published google sheet instead of a database, accessing data via json endpoint.
  
+ [Live Demo](http://theamazingtom.com/lrr/)
+ 
  This is the magic line: `var url = 'https://spreadsheets.google.com/feeds/list/' + sheet + '/' + page + '/public/basic?alt=json';`
 
 The only data stored are lap times, application calculates all the standings.

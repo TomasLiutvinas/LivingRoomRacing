@@ -5,6 +5,10 @@
  
  This is the magic line: `var url = 'https://spreadsheets.google.com/feeds/list/' + sheet + '/' + page + '/public/basic?alt=json';`
 
+The only data stored are lap times, application calculates all the standings.
+
+Known stupid thing about this is that it does not reorder racers by time, and when entering data to the spreadsheet you have to order drivers correctly according to the lap times.
+
 # Settings
 
 Sample sheet:

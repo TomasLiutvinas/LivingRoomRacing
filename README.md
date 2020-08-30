@@ -2,6 +2,8 @@
  Site to display sim racing results using google sheets as source.
  
  We're using a published google sheet instead of a database, accessing data via json endpoint.
+ 
+ This is the magic line: `var url = 'https://spreadsheets.google.com/feeds/list/' + sheet + '/' + page + '/public/basic?alt=json';`
 
 # Settings
 

@@ -28,6 +28,6 @@ To config your own sheet use sample sheet format.
 
 File -> Publish to web. (entire document)
 
-Set `var championshipSheetId =` to sheet id, located between /d/ and /edit...
+Set `var championshipSheetId =` to sheet id, located between /d/ and /edit
 
 In the sample case `1-iBCKt_2hDdBaxGiZ9UluB1or8wrOJqBEC7Q9wvpUv0`

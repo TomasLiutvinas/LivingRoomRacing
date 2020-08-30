@@ -8,7 +8,7 @@
 # Settings
 
 Sample sheet:
-https://docs.google.com/spreadsheets/d/1-iBCKt_2hDdBaxGiZ9UluB1or8wrOJqBEC7Q9wvpUv0/edit#gid=664456842
+https://docs.google.com/spreadsheets/d/1-iBCKt_2hDdBaxGiZ9UluB1or8wrOJqBEC7Q9wvpUv0/edit
 
 First page is config page A1:A4 are config options.
 

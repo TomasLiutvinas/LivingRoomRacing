@@ -3,7 +3,7 @@
  
  We're using a published google sheet instead of a database, accessing data via json endpoint.
  
- [Live Demo](http://theamazingtom.com/lrr/)
+ [Live Demo](http://theamazingtom.com/lrr/) (No longer available, due to deprecated Google Spreadsheet API)
  
  This is the magic line: `var url = 'https://spreadsheets.google.com/feeds/list/' + sheet + '/' + page + '/public/basic?alt=json';`
 

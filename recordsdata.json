@@ -1,0 +1,15 @@
+{
+  "recordsData": [
+    {
+      "recordType": "Fastest Lap",
+      "driverName": "Driver 1",
+      "time": "1:12:300",
+      "track": "Track Name 1"
+    },
+    {
+      "recordType": "Longest Streak",
+      "driverName": "Driver 2",
+      "streak": 5
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "drivers":[
+    "Tomsen",
+    "Ignas",
+    "Van Paulen",
+    "Dejwas",
+    "TheThief",
+    "Rito",
+    "Owlsen",
+  ],
+  "raceTimes": [
+    {
+      "year": 2018,
+      "race": "Singapore GP",
+      "bestLapTime": [
+        { "driverName": "TheThief", "lapTime": "2:01:124", "penalty": "+5 sec" },
+        { "driverName": "Tomsen", "lapTime": "2:03:769", "penalty": null },
+        { "driverName": "Rito", "lapTime": "2:05:651", "penalty": "+5 sec" },
+        { "driverName": "Van Paulen", "lapTime": "2:05:756", "penalty": null },
+        { "driverName": "Ignas", "lapTime": "2:07:315", "penalty": null },
+        { "driverName": "Owlsen", "lapTime": "2:10:420", "penalty": "+5 sec" },
+        { "driverName": "Dejwas", "lapTime": "2:15:350", "penalty": null }
+      ]
+    },
+    {
+      "year": 2018,
+      "race": "Sochi GP",
+      "bestLapTime": [
+        { "driverName": "Tomsen", "lapTime": "1:56:415", "penalty": null },
+        { "driverName": "Ignas", "lapTime": "1:57:196", "penalty": null },
+        { "driverName": "Van Paulen", "lapTime": "1:58:960", "penalty": null },
+        { "driverName": "Dejwas", "lapTime": "1:59:339", "penalty": null },
+        { "driverName": "TheThief", "lapTime": "1:59:653", "penalty": null },
+        { "driverName": "Rito", "lapTime": "2:00:536", "penalty": null },
+        { "driverName": "Owlsen", "lapTime": "2:08:325", "penalty": null }
+      ]
+    },
+    {
+      "year": 2018,
+      "race": "Suzuka GP",
+      "bestLapTime": [
+        { "driverName": "Tomsen", "lapTime": "1:42:601", "penalty": null },
+        { "driverName": "Rito", "lapTime": "1:43:449", "penalty": null },
+        { "driverName": "Ignas", "lapTime": "1:44:516", "penalty": null },
+        { "driverName": "Van Paulen", "lapTime": "1:45:357", "penalty": null },
+        { "driverName": "Dejwas", "lapTime": "1:45:924", "penalty": null },
+        { "driverName": "TheThief", "lapTime": "1:48:647", "penalty": null },
+        { "driverName": "Owlsen", "lapTime": "DNS", "penalty": null }
+      ]
+    },
+    {
+      "year": 2018,
+      "race": "USA GP",
+      "bestLapTime": [
+        { "driverName": "TheThief", "lapTime": "1:54:795", "penalty": null },
+        { "driverName": "Van Paulen", "lapTime": "1:54:826", "penalty": null },
+        { "driverName": "Rito", "lapTime": "1:55:047", "penalty": null },
+        { "driverName": "Tomsen", "lapTime": "1:55:472", "penalty": null },
+        { "driverName": "Owlsen", "lapTime": "1:58:206", "penalty": null },
+        { "driverName": "Ignas", "lapTime": "2:00:021", "penalty": null },
+        { "driverName": "Aurelija", "lapTime": "2:19:647", "penalty": null },
+        { "driverName": "Dejwas", "lapTime": "2:02:182", "penalty": "+5 sec" }
+      ]
+    },
+    {
+      "year": 2018,
+      "race": "Mexican GP",
+      "bestLapTime": [
+        { "driverName": "Tomsen", "lapTime": "1:28:007", "penalty": null },
+        { "driverName": "Dejwas", "lapTime": "1:28:081", "penalty": null },
+        { "driverName": "Rito", "lapTime": "1:28:736", "penalty": null },
+        { "driverName": "TheThief", "lapTime": "1:28:748", "penalty": null },
+        { "driverName": "Owlsen", "lapTime": "1:29:608", "penalty": null },
+        { "driverName": "Ignas", "lapTime": "1:31:410", "penalty": null },
+        { "driverName": "Van Paulen", "lapTime": "DNS", "penalty": null }
+      ]
+    },
+    {
+      "year": 2018,
+      "race": "Interlagos GP",
+      "bestLapTime": [
+        { "driverName": "TheThief", "lapTime": "1:16:680", "penalty": null },
+        { "driverName": "Tomsen", "lapTime": "1:17:411", "penalty": null },
+        { "driverName": "Rito", "lapTime": "1:18:265", "penalty": null },
+        { "driverName": "Dejwas", "lapTime": "1:18:941", "penalty": null },
+        { "driverName": "Van Paulen", "lapTime": "1:19:828", "penalty": null },
+        { "driverName": "Ignas", "lapTime": "1:21:791", "penalty": null },
+        { "driverName": "Owlsen", "lapTime": "DNS", "penalty": null }
+      ]
+    },
+    {
+      "year": 2018,
+      "race": "Abu Dhabi GP",
+      "bestLapTime": [
+        { "driverName": "Rito", "lapTime": "1:49:350", "penalty": null },
+        { "driverName": "TheThief", "lapTime": "1:50:444", "penalty": null },
+        { "driverName": "Ignas", "lapTime": "1:50:592", "penalty": null },
+        { "driverName": "Tomsen", "lapTime": "1:51:411", "penalty": null },
+        { "driverName": "Van Paulen", "lapTime": "1:55:301", "penalty": null },
+        { "driverName": "Dejwas", "lapTime": "1:55:629", "penalty": null },
+        { "driverName": "Owlsen", "lapTime": "1:56:495", "penalty": null }
+      ]
+    },
+    {
+      "year": 2019,
+      "race": "Australia GP",
+      "bestLapTime": [
+        { "driverName": "Dejwas", "lapTime": "1:29:995", "penalty": null },
+        { "driverName": "Tomsen", "lapTime": "1:30:081", "penalty": null },
+        { "driverName": "Rito", "lapTime": "1:31:434", "penalty": null },
+        { "driverName": "Van Paulen", "lapTime": "1:32:999", "penalty": null },
+        { "driverName": "Ignas", "lapTime": "1:33:503", "penalty": null },
+        { "driverName": "TheThief", "lapTime": "1:36:880", "penalty": null }
+      ]
+    },
+    {
+      "year": 2019,
+      "race": "Bahrain GP",
+      "bestLapTime": [
+        { "driverName": "TheThief", "lapTime": "1:36:743", "penalty": null },
+        { "driverName": "Tomsen", "lapTime": "1:37:562", "penalty": null },
+        { "driverName": "Dejwas", "lapTime": "1:39:311", "penalty": null },
+        { "driverName": "Rito", "lapTime": "1:40:569", "penalty": null },
+        { "driverName": "Ignas", "lapTime": "1:42:093", "penalty": null },
+        { "driverName": "Van Paulen", "lapTime": "1:44:758", "penalty": null }
+      ]
+    },
+    {
+      "year": 2019,
+      "race": "China GP",
+      "bestLapTime": [
+        { "driverName": "Tomsen", "lapTime": "1:41:933", "penalty": null },
+        { "driverName": "Rito", "lapTime": "1:42:264", "penalty": null },
+        { "driverName": "TheThief", "lapTime": "1:42:799", "penalty": null },
+        { "driverName": "Dejwas", "lapTime": "1:43:506", "penalty": null },
+        { "driverName": "Van Paulen", "lapTime": "1:44:358", "penalty": null },
+        { "driverName": "Ignas", "lapTime": "1:48:082", "penalty": null }
+      ]
+    }
+  ]
+}

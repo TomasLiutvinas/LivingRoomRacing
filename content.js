@@ -44,13 +44,13 @@ $(document).ready(function() {
           const poleDiff = index === 0 ? 'Pole' : getDifference(adjustedTime, drivers[0].adjustedTime);
 
           raceString += `<tr>
-<td>${driver.driverName}</td>
-<td>${adjustedTime}</td>
-<td>${penalty}</td>
-<td>${nextDiff}</td>
-<td>${poleDiff}</td>
-<td>${points}</td>
-</tr>`;
+                        <td>${driver.driverName}</td>
+                        <td>${adjustedTime}</td>
+                        <td>${penalty}</td>
+                        <td>${nextDiff}</td>
+                        <td>${poleDiff}</td>
+                        <td>${points}</td>
+                        </tr>`;
         });
 
         raceString += '</table>';
@@ -83,6 +83,12 @@ $(document).ready(function() {
     const minutes = Math.floor(milliseconds / 60000);
     const seconds = Math.floor((milliseconds % 60000) / 1000);
     const millis = milliseconds % 1000;
+
+    // Check if any of the values is NaN, and return "N/A" if true
+    if (isNaN(minutes) || isNaN(seconds) || isNaN(millis)) {
+      return 'N/A';
+    }
+
     return `${minutes}:${String(seconds).padStart(2, '0')}:${String(millis).padStart(3, '0')}`;
   }
 

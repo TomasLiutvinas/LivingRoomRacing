@@ -1,6 +1,6 @@
 # Living Room Racing
 
-Working on reviving this in revival branch [Live Demo]([url](https://github.com/TomasLiutvinas/LivingRoomRacing/tree/revival))
+Working on reviving this in revival branch [Live Demo](https://tomasliutvinas.github.io/LivingRoomRacing/)
 
  Site to display sim racing results using google sheets as source.
  

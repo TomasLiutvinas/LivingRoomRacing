@@ -1,10 +1,10 @@
 # Living Room Racing
+
+Working on reviving this in revival branch [Live Demo]([url](https://github.com/TomasLiutvinas/LivingRoomRacing/tree/revival))
+
  Site to display sim racing results using google sheets as source.
  
  We're using a published google sheet instead of a database, accessing data via json endpoint.
- 
-  
- [Live Demo](http://theamazingtom.com/lrr/)
  (No longer available, due to deprecated Google Spreadsheet API)
  Note to self, make finished project screenshots next time.
  
